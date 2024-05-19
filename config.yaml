@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru/
+address_users: https://test-stand.gb.ru/gateway/login
+address_api: https://test-stand.gb.ru/api/users/profile
+login: 'Alex1974'
+password: '1c4464c5b1'
+count: 5
+bs: 1M
